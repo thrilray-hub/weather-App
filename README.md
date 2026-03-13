@@ -2,9 +2,9 @@
 Real-time Weather Forcast APP
 
 Technologies:
-HTML.
-CSS.
-JavaScript.
+HTML,
+CSS,
+JavaScript,
 OpenWeather API
 
 Live Demo:
